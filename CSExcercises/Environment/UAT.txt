@@ -1,0 +1,6 @@
+﻿app.url=https://test.bing.com
+app.username=abrakh
+app.passwrod=pass123
+db.username=stst1
+db.password=pass098
+api.key=jc8eyr8efuegfuegp32or93u
